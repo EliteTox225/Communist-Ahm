@@ -1,2 +1,1 @@
-print("imma not a nigga")
-print("mblablabla")
+list = ["a" , "b" , "c" ]
